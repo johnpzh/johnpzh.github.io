@@ -1,2 +1,1 @@
-# johnpzh.github.io
-Zhen's Website
+# Zhen's Website

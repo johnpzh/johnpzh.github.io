@@ -20,7 +20,7 @@ title                    : "Zhen's Homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Zhen Peng"
-description              : "Zhen Peng @ William & Mary"
+description              : "Zhen Peng Homepage, PhD Candidate, Computer Science, William & Mary"
 url                      : "https://johnpzh.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : johnpzh/johpzh.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

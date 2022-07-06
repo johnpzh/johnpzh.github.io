@@ -14,7 +14,7 @@ My research interests lie in parallel computing with an emphasis on the design a
 * Parallel Computing
 * High Performance Computing
 * Graph Processing
-* Compiler
+* Compilers
 * Deep Neural Network Inference
 
 Before joining William & Mary, I received my bachelor's and master's degrees in the [Department of Computer Science][HQUCS] at [Huaqiao University][HQU], China in 2013 and 2016, respectively. My master's research advisor is [Dr. Tian Wang][TianWang].

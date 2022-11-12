@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title: "Zhen Peng"
-date: 2022-04-26 21:24:29 -0400
+date: 2022-11-12 08:48:29 -0800
 author_profile: true
 ---
 
@@ -39,8 +39,9 @@ My full [CV](assets/files/ZhenPeng_CV.pdf).
 
 ## Experience
 
-* 08/2017 - Present, Research Assistant, William & Mary, Williamsburg, VA
+* 06/2022 - Present, PhD Intern, Pacific Northwest National Laboratory, Richland, WA
 * 04/2021 - 09/2021, Software Engineering Intern, Kuaishou, Palo Alto, CA
+* 08/2017 - 06/2022, Research Assistant, William & Mary, Williamsburg, VA
 
 
 

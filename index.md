@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title: "Zhen Peng"
-date: 2022-11-12 09:08:17 -0800
+date: 2023-01-15 12:21:22 -0800
 author_profile: true
 ---
 
@@ -30,6 +30,7 @@ My full [CV](assets/files/ZhenPeng_CV.pdf).
 
 ## Publications
 
+* **[PPoPP-2023]** **Zhen Peng**, Minjia Zhang, Kai Li, Ruoming Jin, and Bin Ren, _"iQAN: Fast and Accurate Vector Search with Efficient Intra-Query Parallelism on Multi-Core Architectures,"_ The 28th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP '23), February 25-March 1, 2023, Montreal, Canada. [[PDF]](assets/papers/PPoPP-2023_iQAN_Zhen.CameraReady.pdf)
 * **[arXiv-2022]** **Zhen Peng**, Minjia Zhang, Kai Li, Ruoming Jin, and Bin Ren, _"Speed-ANN: Low-Latency and High-Accuracy Nearest Neighbor Search via Intra-Query Parallelism,"_ arXiv:2201.13007, 2022. [[PDF]](assets/papers/arXiv-2022_Speed-ANN_Zhen.pdf)
 * **[TACO-2021]** Qihan Wang, **Zhen Peng**, Bin Ren, Jie Chen, and Robert G. Edwards, _"MemHC: An Optimized GPU Memory Management Framework for Accelerating Many-body Correlation,"_ ACM Transactions on Architecture and Code Optimization (TACO), 2021. [[PDF]](assets/papers/TACO-2022_MemHC_Qihan.pdf)
 * **[ICS-2020]** Ruoming Jin*, **Zhen Peng\***, Wendell Wu, Feodor Dragan, Gagan Agrawal, and Bin Ren, _"Parallelizing Pruned Landmark Labeling: Dealing with Dependencies in Graph Algorithms,"_ The 34th ACM International Conference on Supercomputing (ICS '20), June 29-July 2, 2020, Online. (\* Equal contribution) [[PDF]](assets/papers/ICS-2020_BVC-PLL_Ruoming.pdf) [[FullTalk]](https://youtu.be/YXutyRhxLi0)

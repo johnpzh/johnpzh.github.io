@@ -107,13 +107,13 @@ author:
   bio              : "Ph.D. Candidate<br>
   Computer Science<br>
   William & Mary<br>
-  Email: zpeng01 at wm.edu"
+  Email: hi.pengzhen at gmail.com"
   location         : "Richland, WA"
   # email            : "zpeng01@wm.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:zpeng01@wm.edu"
+      url: "mailto:hi.pengzhen@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -221,7 +221,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: America/New_York# https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles# https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)

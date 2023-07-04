@@ -2,12 +2,12 @@
 layout: single
 classes: wide
 title: "Zhen Peng"
-date: 2023-01-15 12:21:22 -0800
+date: 2023-07-04 14:49:44 -0700
 author_profile: true
 ---
 
 
-Hi there. I am a Ph.D. Candidate in the [Department of Computer Science][WMCS] at [William & Mary][W&M] under the supervision of [Dr. Bin Ren][BinRen].
+Hi there. I am a Postdoctoral Researcher at Pacific Northwest National Laboratory (PNNL). My mentor is [Dr. Gokcen Kestor][GokcenKestor]. I received my Ph.D. from the [Department of Computer Science][WMCS] at [William & Mary][W&M] under the supervision of [Dr. Bin Ren][BinRen].
 
 My research interests lie in parallel computing with an emphasis on the design and optimization of parallel solutions for graph-based applications, relevant areas including:
 
@@ -24,7 +24,8 @@ Before joining William & Mary, I received my bachelor's and master's degrees in 
 [BinRen]: [https://www.cs.wm.edu/~bren/]
 [HQUCS]: [https://cst.hqu.edu.cn/]
 [HQU]: [https://www.hqu.edu.cn/]
-[TianWang]: [https://cist.bnu.edu.cn/xygk/szdw/zgj/104104.html]
+[TianWang]: [https://staff.uic.edu.cn/tianwang/en]
+[GokcenKestor]: [https://www.pnnl.gov/people/gokcen-kestor]
 
 My full [CV](assets/files/ZhenPeng_CV.pdf).
 
@@ -40,9 +41,10 @@ My full [CV](assets/files/ZhenPeng_CV.pdf).
 
 ## Experience
 
-* 06/2022 - Present, PhD Intern, Pacific Northwest National Laboratory, Richland, WA
+* 04/2023 - Present, Postdoctoral Researcher, Pacific Northwest National Laboratory (PNNL), Richland, WA
+* 06/2022 - 04/2023, PhD Intern, Pacific Northwest National Laboratory (PNNL), Richland, WA
 * 04/2021 - 09/2021, Software Engineering Intern, Kuaishou, Palo Alto, CA
-* 08/2017 - 06/2022, Research Assistant, William & Mary, Williamsburg, VA
+* 08/2017 - 06/2022, Research Assistant, College of William & Mary (W&M), Williamsburg, VA
 
 
 

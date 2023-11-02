@@ -20,7 +20,7 @@ title                    : "Zhen's Homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Zhen Peng"
-description              : "Zhen Peng Homepage, PhD Candidate, Computer Science, William & Mary"
+description              : "Zhen Peng Homepage, Postdoc, PNNL"
 url                      : "https://johnpzh.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : johnpzh/johpzh.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,9 +104,8 @@ analytics:
 author:
   name             : "Zhen Peng"
   avatar           : /assets/images/head.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. Candidate<br>
-  Computer Science<br>
-  William & Mary<br>
+  bio              : "Post Doctoral Research Associate<br>
+  Pacific Northwest National Laboratory<br>
   Email: hi.pengzhen at gmail.com"
   location         : "Richland, WA"
   # email            : "zpeng01@wm.edu"

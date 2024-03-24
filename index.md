@@ -2,18 +2,17 @@
 layout: single
 classes: wide
 title: "Zhen Peng"
-date: 2023-11-01 17:08:44 -0700
+date: 2024-03-24 15:47:44 -0700
 author_profile: true
 ---
 
 
 Hi there. I am a Postdoctoral Researcher at Pacific Northwest National Laboratory (PNNL). My mentor is [Dr. Gokcen Kestor][GokcenKestor]. I received my Ph.D. from the [Department of Computer Science][WMCS] at [William & Mary][W&M] under the supervision of [Dr. Bin Ren][BinRen].
 
-My research interests lie in parallel computing with an emphasis on the design and optimization of parallel solutions for graph-based applications, relevant areas including:
+My research interests lie in parallel computing with an emphasis on the design and optimization of parallel solutions for sparse computations and graph-based applications, relevant areas including:
 
 * Parallel Computing
 * High Performance Computing
-* Graph Processing
 * Compilers
 * Deep Neural Network Inference
 

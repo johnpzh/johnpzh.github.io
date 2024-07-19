@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title: "Zhen Peng"
-date: 2023-11-01 17:08:44 -0700
+date: 2024-07-17 13:07:44 -0700
 author_profile: true
 ---
 
@@ -15,7 +15,7 @@ My research interests lie in parallel computing with an emphasis on the design a
 * High Performance Computing
 * Graph Processing
 * Compilers
-* Deep Neural Network Inference
+* Machine Learning Optimization
 
 Before joining William & Mary, I received my bachelor's and master's degrees in the [Department of Computer Science][HQUCS] at [Huaqiao University][HQU], China in 2013 and 2016, respectively. My master's research advisor is [Dr. Tian Wang][TianWang].
 

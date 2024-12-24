@@ -2,29 +2,31 @@
 layout: single
 classes: wide
 title: "Zhen Peng"
-date: 2024-07-17 13:07:44 -0700
+date: 2024-12-24 15:33:44 -0700
 author_profile: true
 ---
 
 
-Hi there. I am a Postdoctoral Researcher at Pacific Northwest National Laboratory (PNNL). My mentor is [Dr. Gokcen Kestor][GokcenKestor]. I received my Ph.D. from the [Department of Computer Science][WMCS] at [William & Mary][W&M] under the supervision of [Dr. Bin Ren][BinRen].
+Hi there. I am a postdoctoral researcher in [High-Performance Computing Group][HPCPNNL] at [Pacific Northwest National Laboratory (PNNL)][PNNL]. My mentor is [Dr. Gokcen Kestor][GokcenKestor]. I received my Ph.D. from the [Department of Computer Science][WMCS] at [William & Mary][W&M] under the supervision of [Dr. Bin Ren][BinRen].
 
 My research interests lie in parallel computing with an emphasis on the design and optimization of parallel solutions for sparse computations and graph-based applications, relevant areas including:
 
 * Parallel Computing
-* High Performance Computing
+* High-Performance Computing
 * Compilers
-* Machine Learning Optimization
+* Sparse Kernel Optimization
 
-Before joining William & Mary, I received my bachelor's and master's degrees in the [Department of Computer Science][HQUCS] at [Huaqiao University][HQU], China in 2013 and 2016, respectively. My master's research advisor is [Dr. Tian Wang][TianWang].
+Before accepted to William & Mary, I received my bachelor's and master's degrees in the [Department of Computer Science][HQUCS] at [Huaqiao University][HQU], China in 2013 and 2016, respectively. My master's research advisor is [Dr. Tian Wang][TianWang].
 
-[WMCS]: [https://www.wm.edu/as/computerscience/]
-[W&M]: [https://www.wm.edu/index.php]
-[BinRen]: [https://www.cs.wm.edu/~bren/]
-[HQUCS]: [https://cst.hqu.edu.cn/]
-[HQU]: [https://www.hqu.edu.cn/]
-[TianWang]: [https://staff.uic.edu.cn/tianwang/en]
-[GokcenKestor]: [https://www.pnnl.gov/people/gokcen-kestor]
+[HPCPNNL]: https://www.pnnl.gov/high-performance-computing
+[PNNL]: https://www.pnnl.gov/
+[WMCS]: https://www.wm.edu/as/computerscience/
+[W&M]: https://www.wm.edu/index.php
+[BinRen]: https://www.cs.wm.edu/~bren/
+[HQUCS]: https://cst.hqu.edu.cn/
+[HQU]: https://www.hqu.edu.cn/
+[TianWang]: https://ai.bnu.edu.cn/xygk/szdw/zgj/c07f0119d96744c1bc2a762be4ecdb30.htm
+[GokcenKestor]: https://www.pnnl.gov/people/gokcen-kestor
 
 My full [CV](assets/files/ZhenPeng_CV.pdf).
 

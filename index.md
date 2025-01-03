@@ -28,7 +28,7 @@ Before accepted to William & Mary, I received my bachelor's and master's degrees
 [TianWang]: https://ai.bnu.edu.cn/xygk/szdw/zgj/c07f0119d96744c1bc2a762be4ecdb30.htm
 [GokcenKestor]: https://www.pnnl.gov/people/gokcen-kestor
 
-My full [CV](assets/files/ZhenPeng_CV.pdf). [Google Scholar](https://scholar.google.com/citations?user=b_4AqDIAAAAJ).
+My full [CV](assets/files/ZhenPeng_CV.pdf).
 
 ## Publications
 

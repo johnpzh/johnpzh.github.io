@@ -2,12 +2,12 @@
 layout: single
 classes: wide
 title: "Zhen Peng"
-date: 2024-12-24 15:33:44 -0700
+date: 2025-01-21 13:33:44 -0700
 author_profile: true
 ---
 
 
-Hi there. I am a postdoctoral researcher in [High-Performance Computing Group][HPCPNNL] at [Pacific Northwest National Laboratory (PNNL)][PNNL]. My mentor is [Dr. Gokcen Kestor][GokcenKestor]. I received my Ph.D. from the [Department of Computer Science][WMCS] at [William & Mary][W&M] under the supervision of [Dr. Bin Ren][BinRen].
+Hi there. I am a postdoctoral researcher in the Future Computing Technologies Group (formerly known as [High-Performance Computing Group][HPCPNNL]) at [Pacific Northwest National Laboratory (PNNL)][PNNL]. My mentor is [Dr. Roberto Gioiosa][RobertoGioiosa] and previously [Dr. Gokcen Kestor][GokcenKestor] (started her new posision at Barcelona Supercomputing Center). I received my Ph.D. from the [Department of Computer Science][WMCS] at [William & Mary][W&M] under the supervision of [Dr. Bin Ren][BinRen].
 
 My research interests lie in parallel computing with an emphasis on the design and optimization of parallel solutions for sparse computations and graph-based applications, relevant areas including:
 
@@ -27,6 +27,7 @@ Before accepted to William & Mary, I received my bachelor's and master's degrees
 [HQU]: https://www.hqu.edu.cn/
 [TianWang]: https://ai.bnu.edu.cn/xygk/szdw/zgj/c07f0119d96744c1bc2a762be4ecdb30.htm
 [GokcenKestor]: https://www.pnnl.gov/people/gokcen-kestor
+[RobertoGioiosa]: https://www.pnnl.gov/people/roberto-gioiosa
 
 My full [CV](assets/files/ZhenPeng_CV.pdf).
 

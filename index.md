@@ -47,7 +47,7 @@ My full [CV](assets/files/ZhenPeng_CV.pdf).
 
 * 04/2023 - Present, Postdoctoral Researcher, Pacific Northwest National Laboratory (PNNL), Richland, WA
 * 06/2022 - 04/2023, PhD Intern, Pacific Northwest National Laboratory (PNNL), Richland, WA
-* 04/2021 - 09/2021, Software Engineering Intern, Kuaishou, Palo Alto, CA
+* 04/2021 - 09/2021, ML Research Intern, Kuaishou, Palo Alto, CA
 * 08/2017 - 06/2022, Research Assistant, College of William & Mary (W&M), Williamsburg, VA
 
 

@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title: "Zhen Peng"
-date: 2025-04-05 09:33:44 -0700
+date: 2025-09-29 17:17:44 -0700
 author_profile: true
 ---
 
@@ -11,10 +11,10 @@ Hi there. I am a postdoc in the Future Computing Technologies Group (formerly kn
 
 My research interests lie in parallel computing with an emphasis on the design and optimization of parallel solutions for sparse computations and graph-based applications, relevant areas including:
 
-* Parallel Computing
 * High-Performance Computing
 * Compilers
-* Sparse Kernel Optimization
+* Machine Learning Optimization
+* Continuum Computing
 
 Before accepted to William & Mary, I received my bachelor's and master's degrees in the [Department of Computer Science][HQUCS] at [Huaqiao University][HQU], China in 2013 and 2016, respectively. My master's research advisor is [Dr. Tian Wang][TianWang].
 
@@ -33,7 +33,9 @@ My full [CV](assets/files/ZhenPeng_CV.pdf).
 
 ## Publications
 
+* **[SSDBM-2025]** Jesun Sahariar Firoz, Hyungro Lee, Luanzheng Guo, Meng Tang, Nathan R. Tallent, and **Zhen Peng**, _"FastFlow: Rapid Workflow Response By Prioritizing Critical Data Flows and their Interactions,"_ the 37th International Conference on Scalable Scientific Data Management (SSDBM 2025), June 23-25, 2025, Columbus, Ohio, USA.
 * **[HPDC-2025]** **Zhen Peng**, Polykarpos Thomadakis, Jacques Pienaar, and Gokcen Kestor, _"LiteForm: Lightweight and Automatic Format Composition for Sparse Matrix-Matrix Multiplication on GPUs,"_ the 34th ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC 2025), July 20-23, 2025, Notre Dame, IN, USA.
+* **[TCH-2025]** Jiexiong Guan, Junjie Wang, Wei Niu, **Zhen Peng**, Shuangquan Wang, Zhenming Liu, Gang Zhou, and Bin Ren, _"Towards Recognizing Food Types for Unseen Subjects,"_ ACM Transactions on Computing for Healthcare, Volume 6, No. 1, pp 1-21, January, 2025.
 * **[PACT-2023]** **Zhen Peng**, Rizwan A. Ashraf, Luanzheng Guo, Ruiqin Tian, and Gokcen Kestor, _"Automatic Code Generation for High-Performance Graph Algorithms,"_ the 32nd International Conference on Parallel Architectures and Compilation Techniques (PACT 2023), October 21-25, 2023, Vienna, Austria. [[PDF]](assets/papers/PACT-2023_COMET_Zhen.CameraReady.pdf)
 * **[PPoPP-2023]** **Zhen Peng**, Minjia Zhang, Kai Li, Ruoming Jin, and Bin Ren, _"iQAN: Fast and Accurate Vector Search with Efficient Intra-Query Parallelism on Multi-Core Architectures,"_ the 28th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP 2023), February 25-March 1, 2023, Montreal, Canada. [[PDF]](assets/papers/PPoPP-2023_iQAN_Zhen.CameraReady.pdf) [[SupplementalMaterial]](assets/papers/PPoPP-2023_iQAN_Zhen.sup_material.pdf)
 * **[arXiv-2022]** **Zhen Peng**, Minjia Zhang, Kai Li, Ruoming Jin, and Bin Ren, _"Speed-ANN: Low-Latency and High-Accuracy Nearest Neighbor Search via Intra-Query Parallelism,"_ arXiv:2201.13007, 2022. [[PDF]](assets/papers/arXiv-2022_Speed-ANN_Zhen.pdf)

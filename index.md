@@ -2,12 +2,12 @@
 layout: single
 classes: wide
 title: "Zhen Peng"
-date: 2025-10-17 11:50:22 -0700
+date: 2025-10-17 11:57:17 -0700
 author_profile: true
 ---
 
 
-Hi there. I am a postdoc in the Future Computing Technologies Group (formerly known as [High-Performance Computing Group][HPCPNNL]) at [Pacific Northwest National Laboratory (PNNL)][PNNL]. My mentor is [Dr. Roberto Gioiosa][RobertoGioiosa] and previously [Dr. Gokcen Kestor][GokcenKestor] (started her new posision at Barcelona Supercomputing Center). I received my Ph.D. from the [Department of Computer Science][WMCS] at [William & Mary][W&M] under the supervision of [Dr. Bin Ren][BinRen].
+Hi there! I am a postdoc in the [Future Computing Technologies Group][FCTPNNL] (formerly known as [High-Performance Computing Group][HPCPNNL]) at [Pacific Northwest National Laboratory (PNNL)][PNNL]. My mentor is [Dr. Roberto Gioiosa][RobertoGioiosa] and previously [Dr. Gokcen Kestor][GokcenKestor] (who started her new posision at Barcelona Supercomputing Center). I received my Ph.D. from the [Department of Computer Science][WMCS] at [William & Mary][W&M] under the supervision of [Dr. Bin Ren][BinRen].
 
 My research interests lie in parallel computing with an emphasis on the design and optimization of parallel solutions for sparse computations and graph-based applications, relevant areas including:
 
@@ -19,6 +19,7 @@ My research interests lie in parallel computing with an emphasis on the design a
 Before accepted to William & Mary, I received my bachelor's and master's degrees in the [Department of Computer Science][HQUCS] at [Huaqiao University][HQU], China in 2013 and 2016, respectively. My master's research advisor is [Dr. Tian Wang][TianWang].
 
 [HPCPNNL]: https://www.pnnl.gov/high-performance-computing
+[FCTPNNL]: https://www.pnnl.gov/future-computing-technologies
 [PNNL]: https://www.pnnl.gov/
 [WMCS]: https://www.wm.edu/as/computerscience/
 [W&M]: https://www.wm.edu/index.php
@@ -26,7 +27,7 @@ Before accepted to William & Mary, I received my bachelor's and master's degrees
 [HQUCS]: https://cst.hqu.edu.cn/
 [HQU]: https://www.hqu.edu.cn/
 [TianWang]: https://ai.bnu.edu.cn/xygk/szdw/zgj/c07f0119d96744c1bc2a762be4ecdb30.htm
-[GokcenKestor]: https://www.pnnl.gov/people/gokcen-kestor
+[GokcenKestor]: https://www.bsc.es/kestor-gokcen
 [RobertoGioiosa]: https://www.pnnl.gov/people/roberto-gioiosa
 
 My full [CV](assets/files/ZhenPeng_CV.pdf).
